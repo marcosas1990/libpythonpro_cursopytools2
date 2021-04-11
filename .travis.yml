@@ -3,9 +3,12 @@ python:
   - 3.9
 
 install:
-  - pip install -q -r requirements-dev.txt
+  - pip install -q -r requirements-dev.txt codecov
 
 script:
   - flake8
-  - pytest pytools123456789
+  - pytest pytools123456789 --cov=pytools123456789
+
+after_success:
+  - codecov
 
