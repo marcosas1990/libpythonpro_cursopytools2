@@ -7,6 +7,7 @@ Link do curso [Python Pro](https://www.python.pro.br/)
 [![Build Status](https://travis-ci.com/MarcosAntonioSoares/libpythonpro_cursopytools2.svg?branch=main)](https://travis-ci.com/MarcosAntonioSoares/libpythonpro_cursopytools2)
 [![Updates](https://pyup.io/repos/github/marcosas1990/libpythonpro_cursopytools2/shield.svg)](https://pyup.io/repos/github/marcosas1990/libpythonpro_cursopytools2/)
 [![Python 3](https://pyup.io/repos/github/marcosas1990/libpythonpro_cursopytools2/python-3-shield.svg)](https://pyup.io/repos/github/marcosas1990/libpythonpro_cursopytools2/)
+[![codecov](https://codecov.io/gh/MarcosAntonioSoares/libpythonpro_cursopytools2/branch/main/graph/badge.svg)](https://codecov.io/gh/MarcosAntonioSoares/libpythonpro_cursopytools2)
 
 Suporta versão 3 de Python
 
